@@ -1,9 +1,6 @@
 # The Property Place
 
-[View the live project here.](https://github.com/Leec55/milestone_1) python
-
-![alt text](https://github.com/Leec55/milestone_1/assets/images/readme-images/am-i-responsive.PNG)  
-The image is from [Am I responsive?](http://ami.responsivedesign.is/)
+[View the live project here.](https://github.com/Leec55/milestone_1)
 
 This is a full-fledge website for a property letting and management company. The website features ‘about us’, 'gallery', ‘contact form’ and ‘social media links’. The objective of this projects is to generate leads for the business through the contact page. 
 
