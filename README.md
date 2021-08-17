@@ -1,6 +1,6 @@
 # The Property Place
 
-[View the live project here.](https://8000-copper-horse-wmarrv41.ws-eu14.gitpod.io/)
+[View the live project here.](https://leec55.github.io/milestone_1/)
 
 This is a full-fledge website for a property letting and management company. The website features ‘about us’, 'gallery', ‘contact form’ and ‘social media links’. The objective of this projects is to generate leads for the business through the contact page. 
 
